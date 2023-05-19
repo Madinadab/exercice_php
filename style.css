@@ -1,0 +1,21 @@
+#s1,
+ #s2,
+ #s3,
+ #s4,
+ #s5,
+ #s6,
+ #s7,
+ #s8,
+ #s9 
+{
+    background-color: #f2f2f2;
+    width: 600px;
+    padding: 50px;
+    margin: 20px 400px;
+    border-radius: 50px;
+    text-align: center;
+    
+}
+body{
+    background-color: #af7811;
+}
